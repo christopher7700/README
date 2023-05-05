@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## My contact: **christopher.angel31@gmail.com**
+### My contact: **christopher.angel31@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>

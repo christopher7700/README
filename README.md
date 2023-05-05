@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-
 ### My contact: **christopher.angel31@gmail.com**
 
 

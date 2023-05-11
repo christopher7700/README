@@ -1,6 +1,6 @@
 ### Welcome to my Github !
 
-I working toward developing great machine learning and deep learning models. 
+I'm working toward developing great machine learning and deep learning models. 
 
 Here you'll find some of my projects and coursework. 
 
